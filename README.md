@@ -13,3 +13,7 @@ Features include:
 Developed by John Holden, Clarity and Rigour LLC. Special thanks to Zach Alexopoulos; Dheeraj Chand; Moussa Dia and Robert Rose, the William & Mary Center for Geospatial Analysis; the William & Mary Election Law Society; and the University of Arizona Geography Department.
 
 For a tutorial/manual, please visit the product web page at http://www.clarityandrigour.com/products/qgis-redistricter/
+
+Data is not included but can be downloaded depending on your country of interest
+* U.S. Census bureau (information included in the manual)
+* Australian SA1/SA2 shapefiles from 2016 can be downloaded from: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.001July%202016
