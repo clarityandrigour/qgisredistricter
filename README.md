@@ -7,6 +7,8 @@ Features include:
 * lock finished districts
 * rename districts
 * export attributes to CSV
+* projects save automatically for easy loading/reloading
+* automatic map district colouring
 
 Developed by John Holden, Clarity and Rigour LLC. Special thanks to Zach Alexopoulos; Dheeraj Chand; Moussa Dia and Robert Rose, the William & Mary Center for Geospatial Analysis; the William & Mary Election Law Society; and the University of Arizona Geography Department.
 
