@@ -375,7 +375,7 @@ class CandRRedistrict:
 			d.field_sum[0] = d.field_sum[0] - feature[d.name]
 			d.total_sum = d.total_sum - feature[d.name]
 
-	QgsMessageLog.logMessage(districtId[str(feature[self.distfield])])
+#	QgsMessageLog.logMessage(districtId[str(feature[self.distfield])])
 	self.activeLayer.changeAttributeValue(feature.id(),field_id,districtName[self.activedistrict])
 	newId = int(districtId[str(districtName[self.activedistrict])])
 
